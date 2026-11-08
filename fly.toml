@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for forgepanel-3rdp on 2026-11-05T08:45:55Z
+# fly.toml app configuration file generated for forgepanel-3rdp-3tfodw on 2026-11-08T20:51:33Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'forgepanel-3rdp'
-primary_region = 'ams'
+app = 'forgepanel-3rdp-3tfodw'
+primary_region = 'cdg'
 
 [build]
   dockerfile = 'deploy/paas/Dockerfile'
